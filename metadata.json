@@ -1,0 +1,6 @@
+{
+  "name": "Linen Management System",
+  "description": "A high-fidelity hospital linen management system for tracking inventory levels, laundry replenishment, and linen requests with real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
